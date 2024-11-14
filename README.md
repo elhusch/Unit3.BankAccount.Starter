@@ -32,8 +32,9 @@ If you're done early, try adding some of the following features:
 - Use `sessionStorage` to persist the user's balance between refreshes.
 - Use Sass to style the application.
 
-- Deployed Application: https://elhuschbankaccountstarter.netlify.app/
-
 ## Submission
 
 Please submit a link to your GitHub repository.
+
+Deployed Application: https://elhuschbankaccountstarter.netlify.app/
+
